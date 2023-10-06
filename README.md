@@ -1,12 +1,10 @@
-
 <h1 align="center">
-  <div>Hey there</div>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey there! 👋
 </h1>
 
 <div align="center">
   <h2>
-    <strong>Skills</strong>
+    Skills
   </h2>
   <div>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
@@ -22,11 +20,12 @@
 
 <div align="center">
   <h2>
-  <strong>Socials</strong>
-</h2>
+    Socials
+  </h2>
   <div> 
     <a href="https://www.github.com/bariskiral" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
     <a href="https://www.linkedin.com/in/bariskiral" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-    <a href="https://www.twitter.com/barisskiral" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+    <a href="https://www.twitter.com/barisskiral" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+    <a href="mailto:bariskiral07@gmail.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32"></a>
   </div>
 </div>
