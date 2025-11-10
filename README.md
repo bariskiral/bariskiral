@@ -27,8 +27,3 @@
     <a href="https://www.twitter.com/barisskiral" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
   </div>
 </div>
-  
-<div align="center">
-<br/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bariskiral&theme=merko&border_radius=&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
-</div>
